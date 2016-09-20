@@ -6,7 +6,7 @@
   "scripts": {
     "test": "karma start"
   },
-  "author": "yogin",
+  "author": "Anthony 'YoGiN' Powles",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.14.0",
